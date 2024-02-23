@@ -41,7 +41,7 @@ body {
 }
 
 .text {
-  margin-top: 20px;
+  margin-top: 0px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -49,6 +49,7 @@ body {
 }
 
 .main-content h1 {
+  color: hsl(218, 44%, 22%);
   margin-top: 20px;
   font-size: 23px;
   text-align: center;
@@ -58,6 +59,7 @@ body {
 
 .main-content h2 {
   margin-top: 1px;
+  margin-bottom: 20px;
   text-align: center;
   font-size: 18px;
   font-weight: 400;
